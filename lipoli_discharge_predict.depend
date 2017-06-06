@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1496702679 source:/home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/main.cpp
+	<string.h>
+	"polifitgsl.h"
+	"discharge_prediction.h"
+
+1496661313 source:/home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/linreg.cpp
+	"linreg.h"
+	<stdlib.h>
+	<math.h>
+
+1496661312 /home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/linreg.h
+
+1496699538 /home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/polifitgsl.h
+	<gsl/gsl_multifit.h>
+	<stdbool.h>
+	<math.h>
+
+1496662608 source:/home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/polifit.c
+	"polifit.h"
+	<gsl/gsl_multifit.h>
+	<stdbool.h>
+	<math.h>
+
+1496662630 /home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/polifit.h
+
+1496665874 source:/home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/polifitgsl.c
+	"polifitgsl.h"
+
+1496665874 source:/home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/polifitgsl.cpp
+	"polifitgsl.h"
+
+1496699538 source:/home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/plofitgsl.cpp
+	"polifitgsl.h"
+
+1496705316 source:/home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/discharge_prediction.cpp
+	<string.h>
+	"linreg.h"
+	"polifitgsl.h"
+	"discharge_prediction.h"
+
+1496705350 /home/norbert/Asztal/20170317_terheles_feszultseg_repido/feszultseg_repido/discharge_prediction.h
+
+1496705370 source:/home/norbert/Asztal/lipoli_discharge_predict/discharge_prediction.cpp
+	<string.h>
+	"linreg.h"
+	"polifitgsl.h"
+	"discharge_prediction.h"
+
+1496661312 /home/norbert/Asztal/lipoli_discharge_predict/linreg.h
+
+1496699538 /home/norbert/Asztal/lipoli_discharge_predict/polifitgsl.h
+	<gsl/gsl_multifit.h>
+	<stdbool.h>
+	<math.h>
+
+1496705350 /home/norbert/Asztal/lipoli_discharge_predict/discharge_prediction.h
+
+1496661313 source:/home/norbert/Asztal/lipoli_discharge_predict/linreg.cpp
+	"linreg.h"
+	<stdlib.h>
+	<math.h>
+
+1496702679 source:/home/norbert/Asztal/lipoli_discharge_predict/main.cpp
+	<string.h>
+	"polifitgsl.h"
+	"discharge_prediction.h"
+
+1496699538 source:/home/norbert/Asztal/lipoli_discharge_predict/plofitgsl.cpp
+	"polifitgsl.h"
+
