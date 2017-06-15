@@ -33,10 +33,10 @@ void battery_status( int time_measured, float voltage_measuered, float current_m
                 R_internal = i;
                 voltage_calculated[(loop-MEMORY_SIZE)/SKIP] = voltage[i][0];                    //Itt kiszámolom a belso ellenállással módosított feszültséget
                 time_calculated[(loop-MEMORY_SIZE)/SKIP]= time[0];
-                if(DEGREE == 2){
+                /*if(DEGREE == 2){
                     discharge_time = (BATTERY_EMPTY_VOLTAGE-coeff[0])/coeff[1];
                     time_left = (BATTERY_EMPTY_VOLTAGE-coeff[0])/coeff[1]-time_calculated[(loop-MEMORY_SIZE)/SKIP];
-                    }
+                    }*/
            }
         }
         if(/*DEGREE > 2 &&*/ loop>1.5*MEMORY_SIZE)  {
