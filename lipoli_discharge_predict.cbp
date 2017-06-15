@@ -38,13 +38,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="discharge_prediction.cpp" />
-		<Unit filename="discharge_prediction.h" />
-		<Unit filename="linreg.cpp" />
-		<Unit filename="linreg.h" />
-		<Unit filename="main.cpp" />
-		<Unit filename="plofitgsl.cpp" />
-		<Unit filename="polifitgsl.h" />
+		<Unit filename="source/discharge_prediction.cpp" />
+		<Unit filename="source/discharge_prediction.h" />
+		<Unit filename="source/linreg.cpp" />
+		<Unit filename="source/linreg.h" />
+		<Unit filename="source/main.cpp" />
+		<Unit filename="source/plofitgsl.cpp" />
+		<Unit filename="source/polifitgsl.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

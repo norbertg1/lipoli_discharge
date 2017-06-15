@@ -69,7 +69,7 @@
 1496699538 source:/home/norbert/Asztal/lipoli_discharge_predict/plofitgsl.cpp
 	"polifitgsl.h"
 
-1496705370 source:/home/norbert/Asztal/lipoli_discharge_predict/source/discharge_prediction.cpp
+1497537608 source:/home/norbert/Asztal/lipoli_discharge_predict/source/discharge_prediction.cpp
 	<string.h>
 	"linreg.h"
 	"polifitgsl.h"
@@ -82,14 +82,14 @@
 	<stdbool.h>
 	<math.h>
 
-1496705350 /home/norbert/Asztal/lipoli_discharge_predict/source/discharge_prediction.h
+1497538174 /home/norbert/Asztal/lipoli_discharge_predict/source/discharge_prediction.h
 
 1496661313 source:/home/norbert/Asztal/lipoli_discharge_predict/source/linreg.cpp
 	"linreg.h"
 	<stdlib.h>
 	<math.h>
 
-1496702679 source:/home/norbert/Asztal/lipoli_discharge_predict/source/main.cpp
+1497537965 source:/home/norbert/Asztal/lipoli_discharge_predict/source/main.cpp
 	<string.h>
 	"polifitgsl.h"
 	"discharge_prediction.h"
